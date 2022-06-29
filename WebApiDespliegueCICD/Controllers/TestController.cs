@@ -12,8 +12,9 @@ namespace WebApiDespliegueCICD.Controllers
         {
             return Ok(new
             {
-                genio = "Eres un maldito genio, nueva prueba"
+                genio = "Eres un maldito genio, nueva prueba.. para ver el tema de release"
             });
         }
+
     }
 }
