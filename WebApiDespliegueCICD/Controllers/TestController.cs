@@ -12,7 +12,7 @@ namespace WebApiDespliegueCICD.Controllers
         {
             return Ok(new
             {
-                genio = "Eres un maldito genio"
+                genio = "Eres un maldito genio, nueva prueba"
             });
         }
     }
